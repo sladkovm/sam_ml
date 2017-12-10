@@ -1,0 +1,6 @@
+ipython
+nbstripout
+nbformat
+
+# additional libraries for docker or versions fixings
+pandas >= 0.21.0

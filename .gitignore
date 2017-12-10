@@ -6,6 +6,9 @@ jupyter/.ipynb_checkpoints/
 *.csv
 *.json
 *.zip
+nohup.out
 
 data/
+pickle/
 resuts/
+venv/
